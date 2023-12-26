@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hey there, I'm Abhinandan 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color: orange">Abhinandan</span> 👋</h1>
 
 ###
 
@@ -27,7 +27,9 @@
   <a href="https://twitter.com/Abhinandanbm13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <a href="https://instagram.com/abhinandan_shetty13?igshid=MzMyNGUyNmU2YQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
