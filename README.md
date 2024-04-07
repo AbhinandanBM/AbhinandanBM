@@ -18,7 +18,16 @@
 
 ###
 
-<div align="center">
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning .Net Core<br>🎯 Goals: Mastery of Diverse Tech Stacks<br>🎲 Fun fact: The average developer types 100 words<br>📫 How to reach me </p>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/abhinandan-b-m/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -36,13 +45,6 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning .Net Core<br>🎯 Goals: Mastery of Diverse Tech Stacks<br>🎲 Fun fact: The average developer types 100 words</p>
 
 ###
 
